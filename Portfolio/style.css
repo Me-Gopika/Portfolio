@@ -1,0 +1,88 @@
+body{
+    color:white;
+  
+  }
+  
+  #parent{position: relative;}
+  .image{
+  padding-left:1219px;
+  top: 0px;
+  position: relative;
+  }
+  .image2{
+    top:195px;
+    padding-left:1100px;
+    position: absolute;
+  }
+  
+  .content{
+    background-color: rgb(6, 3, 24);
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1350px;
+    height:300px;
+    top: 700px;
+    padding-left: 100px;
+    color: white;
+    text-align: justify;
+    text-decoration-style: solid;
+    padding-top: 65px;
+  }
+  .text{
+  padding-left: 200px;
+  padding-top: 200px;
+  color: white;  
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .education{
+    color: white;
+    padding-top:300px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+  }
+  .skill{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:300px;
+    position: absolute;
+    padding-left: 700px;
+  }
+  .services{
+    background-color:rgb(6, 3, 24);
+    width: 1519px;
+    position: absolute;
+    color:white;
+    top: 1350px;
+    text-align: center;
+    padding-top:65px;
+  }
+  .row{
+    padding-left: 408px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .card-title{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .card-text{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+  }
+  .hire{
+   padding-top: 1150px;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+  }
+  .btn{
+    padding-left: 500px;
+  }
+  .foot{
+    text-align: center;
+    padding-top: 70px;
+    color: white;
+    font-family:serif;
+  }
